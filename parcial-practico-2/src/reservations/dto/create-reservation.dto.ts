@@ -6,3 +6,5 @@ export class CreateReservationDto {
   participants!: number;
   roomId!: number;
 }
+
+

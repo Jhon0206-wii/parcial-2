@@ -124,3 +124,4 @@ npm run typecheck
 No se solicitan frontend, autenticación, JWT, Passport, despliegue, librerías adicionales, pipes personalizados ni pruebas automatizadas de controladores.
 
 Para detener únicamente la base de este proyecto conservando sus datos, ejecutar `docker compose stop` desde esta carpeta. No utilizar `down -v` para solucionar errores: eliminaría los datos del volumen. La sincronización de tablas está habilitada solo para esta base local descartable; no usar información real.
+
